@@ -24,6 +24,7 @@ function isTyler(name){
   }else{
   return false;
   }
+  }
 
 
 
