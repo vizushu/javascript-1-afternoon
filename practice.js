@@ -18,6 +18,12 @@ var name = 'Tyler';
 */
 
 //Code Here
+function isTyler(name){
+  if(name === Tyler){
+  return true,
+  }else{
+  return false
+  }
 
 
 
@@ -28,7 +34,11 @@ var name = 'Tyler';
 */
 
 //Code Here
-
+function getName = prompt("what is your name?"){
+  console.log(getName);
+  return getName; 
+};
+ 
 
 
 ////////// PROBLEM 3 //////////
@@ -41,8 +51,9 @@ var name = 'Tyler';
 */
 
 //Code Here
-
-
+function welcome(getName){
+  return "welcome, ${prompt}"
+};
 
 ////////// PROBLEM 4 //////////
 
