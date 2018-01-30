@@ -86,7 +86,7 @@ function welcome() {
 ​
 //Code Here
 function myName() {
-  return "Warren Reader"
+  return "Renier Dela Cruz"
 }
 ​
 ​
@@ -115,7 +115,7 @@ alert(newMyName());
 //Code Here
 function outerFn() {
   return function () {
-    return "Warren Reader";
+    return "Renier Dela Cruz";
   }
 }
 ​
