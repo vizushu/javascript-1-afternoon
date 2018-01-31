@@ -75,6 +75,8 @@ function welcome() {
 */
 ​
 //Answer Here
+NaN
+
 ​
 ​
 ​
